@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.6"
 license = {text = "MIT"}
 authors = [
-    {name = "Mike Dallas", email = ""}
+    {name = "Mike Dallas", email = "1556051+directedbit@users.noreply.github.com"}
 ]
 urls = { "Homepage" = "https://github.com/directedbit/cryptotools" }
 classifiers = [
